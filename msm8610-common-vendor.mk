@@ -12,4 +12,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-$(call inherit-product, vendor/motorola/msm8610-common/msm8610-common-vendor-blobs.mk)
+$(call inherit-product, vendor/microsoft/msm8610-common/msm8610-common-vendor-blobs.mk)
